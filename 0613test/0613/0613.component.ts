@@ -7,11 +7,7 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './0613.component.html',
   styleUrls: ['./0613.component.css']
 })
-export class 0613Component implements OnInit {
-
-  constructor() { }
-
-  ngOnInit() {
+export class testComponent {
+  name = '0613-3';
   }
-
 }
